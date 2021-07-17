@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/PPC409/PokeTeam-WebTemplate/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+ ____         _         _____                       
+ |  _ \  ___  | | __ ___|_   _|___   __ _  _ __ ___  
+ | |_) |/ _ \ | |/ // _ \ | | / _ \ / _` || '_ ` _ \ 
+ |  __/| (_) ||   <|  __/ | ||  __/| (_| || | | | | |
+ |_|    \___/ |_|\_\\___| |_| \___| \__,_||_| |_| |_|
+ 
+ ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PPC409/PokeTeam-WebTemplate/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+                         > { English/Anglais } <
+
+Template name: PokeTeam WebTemplate
+Type: Web Dev
+Price: 0.00
+Version: 1.0
+Organised by: PPC#3027
+Builded by: PPC#3027
+Discord:  [click me](https://discord.gg/GbCNGmcDPd)
+Site: S00N
+
+
+
+                         > { Français/French } <
+                         
+
+Nom de la template: PokeTeam WebTemplate
+Type: Web Dev
+Prix: 0.00
+Version: 1.0
+Organisé par: PPC#3027
+Build par: PPC#3027
+Discord:  [click moi](https://discord.gg/GbCNGmcDPd)
+Site: S00N
+
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with the template? Check out our [discord](https://discord.gg/GbCNGmcDPd) and we’ll help you sort it out.
+Des problems avec la template? Rejoignez nôtre [discord](https://discord.gg/GbCNGmcDpd) et nous vous aideront.
