@@ -40,3 +40,4 @@ Site: S00N
 
 Having trouble with the template? Check out our [discord](https://discord.gg/GbCNGmcDPd) and we’ll help you sort it out.
 Des problems avec la template? Rejoignez nôtre [discord](https://discord.gg/GbCNGmcDpd) et nous vous aideront.
+
